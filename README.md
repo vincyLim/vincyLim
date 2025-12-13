@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html>
+<br clear="both">
+
 <div align="center">
-  <a href="mailto:vincy.mac@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/vincy-lim-8b7b30314" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+  <img height="170" src="https://raw.githubusercontent.com/vincyLim/vincyLim/a9c843415ed1d45e6ba4cd973495db70eb4f8d33/computerMemoji.png"  />
 </div>
 
 ###
@@ -19,13 +14,22 @@
 
 ###
 
+<div align="center">
+  <a href="mailto:vincy.mac@icloud.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/vincy-lim-8b7b30314" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="center">🙋‍♀️  About Me</h2>
 
 ###
 
-<p align="left">👩‍🎓  Fresh graduate from <b>Universiti Tunku Abdul Rahman (UTAR)</b> with a <b>Bachelor of Software Engineering.</b><br><br>🤩 I’m open to learning and working in different areas of software engineering. <br><br>☁️ Currently preparing for AWS certificate examination during my free time.</p>
-
-###
+<p align="left">👩‍🎓  Fresh graduate from Universiti Tunku Abdul Rahman (UTAR) with a Bachelor of Software Engineering.<br><br>🤩 I’m open to learning and working in different areas of software engineering. <br><br>☁️ Currently preparing for AWS certificate examination during my free time.</p>
 
 ###
 
@@ -37,7 +41,7 @@
 
 ###
 
-<p align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -53,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</p>
+</div>
 
 ###
 
@@ -61,7 +65,7 @@
 
 ###
 
-<p align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
@@ -77,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</p>
+</div>
 
 ###
 
@@ -85,7 +89,7 @@
 
 ###
 
-<p align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -93,7 +97,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-</p>
+</div>
 
 ###
 
@@ -101,7 +105,7 @@
 
 ###
 
-<p align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -111,7 +115,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</p>
+</div>
 
 ###
 
@@ -119,7 +123,7 @@
 
 ###
 
-<p align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -131,9 +135,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</p>
-
-###
+</div>
 
 ###
 
@@ -162,5 +164,3 @@
 </div>
 
 ###
-
-</html>
